@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: click
+    database: default
+    tables:
+      - name: qwe
+
+  - name: gp
+    database: demo
+    tables:
+      - name: qwe
+      - name: test
